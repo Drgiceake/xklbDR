@@ -1,0 +1,25 @@
+﻿#Rime dictionary
+#encoding:  utf-8
+#
+#星空两笔(打单版)
+
+---
+name: xklbdzdr.jianci
+version: "Q1"
+sort: original
+...
+#二字词
+你们	nm
+我们	wv
+怎么	zv
+自己	zvj
+已经	yv
+应该	yvg
+以后	yvh
+因为	yvw
+一直	yvz
+什么	sv
+绝对	jvd
+#三字词
+有没有	yvy
+为什么	wvm
