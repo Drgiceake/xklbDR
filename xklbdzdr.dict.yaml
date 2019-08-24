@@ -191,6 +191,7 @@ sort: original
 咇	bjoa
 踣	bjoe
 啵	bjoo
+釆	bjooo
 叭	bjuo
 豹	bju
 趵	bjua
@@ -1035,6 +1036,7 @@ sort: original
 典	deu
 骶	deua
 度	df
+盗	df2
 癜	dfa
 冻	dfe
 瘩	dfei
@@ -1043,9 +1045,8 @@ sort: original
 疔	dfeii
 帝	dfi
 端	dfia
-盗	dfiae
-亶	dfiaee
-疸	dfiaee2
+亶	dfiae
+疸	dfiaee
 店	dfie
 亸	dfo
 憝	dfoa
@@ -2637,6 +2638,7 @@ sort: original
 蚧	jeuou
 骱	jeuoui
 决	jf
+竟	jf2
 郊	jfa
 瘕	jfae
 疖	jfai
@@ -2662,10 +2664,9 @@ sort: original
 麖	jfoei
 粢	jfou
 将	jfu
-竟	jfua
-净	jfuaa
+净	jfua
+竫	jfuaa
 麂	jfuaaa
-竫	jfuaae
 鹫	jfuae
 	jfuaee
 疚	jfuao
@@ -3226,6 +3227,7 @@ sort: original
 侩	khuo
 昆	ki
 暌	kia
+邼	kiai
 匡	kie
 轲	kiei
 匮	kii
@@ -3288,7 +3290,6 @@ sort: original
 壳	knua
 坎	knuau
 亏	ko
-邼	koa
 珂	koe
 刊	koi
 琨	koia
@@ -4044,7 +4045,7 @@ sort: original
 峁	meua
 眊	meue
 麻	mf
-魔	mf1
+魔	mf2
 氓	mfa
 縻	mfaa
 邙	mfai
@@ -4264,6 +4265,7 @@ sort: original
 莓	mwue
 芼	mwuea
 藐	mwuo
+虋	mwui
 矛	mx
 瞀	mxi
 蝥	mxia
@@ -5307,11 +5309,11 @@ sort: original
 谁	sdu
 设	sdua
 是	s
-上	s2
+术	s2
 闪	sa
 闩	sae
 虱	sau
-术	sb
+属	sb
 屎	sb2
 树	sba
 巳	sbaa
@@ -5332,8 +5334,7 @@ sort: original
 梳	sboeu
 肃	sboo
 桫	sbooi
-属	sbu
-栅	sbu2
+栅	sbu
 杓	sbua
 鸤	sbuae
 鹔	sbuaee
@@ -5708,7 +5709,8 @@ sort: original
 爽	spuo
 肾	sq
 竖	sqo
-叔	sr
+上	sr
+叔	sra
 些	sre
 锁	sri
 锶	sria
@@ -5720,11 +5722,11 @@ sort: original
 铩	sruo
 钐	sruu
 实	ss
+塞	ss2
 室	sse
 愫	ssee
 守	ssei
 慑	sseia
-塞	sseie
 恃	sseiei
 宋	sseio
 悚	sseioo
@@ -6717,6 +6719,7 @@ sort: original
 榭	xbuie
 檄	xbuiu
 屣	xbuu
+枔	xbuo
 线	xc
 绪	xc2
 胁	xca
@@ -6925,6 +6928,7 @@ sort: original
 悉	xjo
 躞	xjoe
 喧	xjoo
+咲	xjou
 吸	xju
 鸮	xjuae
 欷	xjua
